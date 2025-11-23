@@ -188,3 +188,4 @@ closet_frame.pack(fill="both", expand=True, pady=10)
 
 # Start the app
 root.mainloop() 
+print
