@@ -9,6 +9,6 @@
 
 ### Sprint 2
 - [x] write up code for main user interface
-- [x ] Add gridding pattern for clothes
-- [ x] Add the ability to add clothes to the app
-- [ x] Add the ability to organize clothes based on whether it’s a top or bottom 
+- [x] Add gridding pattern for clothes
+- [x] Add the ability to add clothes to the app
+- [x] Add the ability to organize clothes based on whether it’s a top or bottom 
