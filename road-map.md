@@ -11,4 +11,8 @@
 - [x] write up code for main user interface
 - [x] Add gridding pattern for clothes
 - [x] Add the ability to add clothes to the app
-- [x] Add the ability to organize clothes based on whether it’s a top or bottom 
+- [x] Add the ability to organize clothes based on whether it’s a top or a bottom
+#### Sprint 3
+- [x] clean up code 
+- [x] Add color to the main interface 
+- [x] make the PowerPoint to present code 
